@@ -30,7 +30,7 @@ const App: React.FC = () => {
       </div>
       <div className={styles.footer}>
         <a href="/" target="_blank" rel="noopener noreferrer">
-          Created and maintained with ❤️ by{" "}
+          Tutorial and example made with ❤️ by{" "}
           <a target="_link" href="https://www.github.com/filippo-fonseca">
             <div style={{ marginRight: "7px" }}>
               <img
