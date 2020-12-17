@@ -8,8 +8,8 @@
 }
 
 .main {
-  padding: 5rem 0;
   flex: 1;
+  margin-top: -200px !important;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -50,6 +50,7 @@
   margin: 0;
   line-height: 1.15;
   font-size: 4rem;
+  margin-top: 4rem;
 }
 
 .title,
